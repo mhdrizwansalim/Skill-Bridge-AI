@@ -1,0 +1,6 @@
+Dataset,Rows,Columns,Missing Values,Duplicate Rows
+Occupations,4055,3,0,0
+Skills,13949,3,0,0
+ESCO Relationships,126051,6,59,0
+O*NET Relationships,18200,7,0,0
+Job Titles,54269,6,49814,0

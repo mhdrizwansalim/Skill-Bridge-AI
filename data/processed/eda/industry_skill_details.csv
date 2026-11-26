@@ -1,0 +1,179 @@
+Industry,Role,Skill
+Data Science,Data Scientist,Python
+Data Science,Data Scientist,SQL
+Data Science,Data Scientist,Statistics
+Data Science,Data Scientist,Machine Learning
+Data Science,Data Scientist,Pandas
+Data Science,Data Analyst,SQL
+Data Science,Data Analyst,Excel
+Data Science,Data Analyst,Python
+Data Science,Data Analyst,Power BI
+Data Science,Data Analyst,Statistics
+AI & ML,Machine Learning Engineer,Python
+AI & ML,Machine Learning Engineer,Deep Learning
+AI & ML,Machine Learning Engineer,PyTorch
+AI & ML,Machine Learning Engineer,Machine Learning
+AI & ML,Machine Learning Engineer,SQL
+AI & ML,AI Engineer,Python
+AI & ML,AI Engineer,LLM
+AI & ML,AI Engineer,RAG
+AI & ML,AI Engineer,Deep Learning
+AI & ML,AI Engineer,NLP
+AI & ML,NLP Engineer,Python
+AI & ML,NLP Engineer,NLP
+AI & ML,NLP Engineer,Transformers
+AI & ML,NLP Engineer,PyTorch
+AI & ML,NLP Engineer,Hugging Face
+AI & ML,Computer Vision Engineer,Python
+AI & ML,Computer Vision Engineer,OpenCV
+AI & ML,Computer Vision Engineer,YOLO
+AI & ML,Computer Vision Engineer,PyTorch
+AI & ML,Computer Vision Engineer,Deep Learning
+Software & IT,Software Engineer,Python
+Software & IT,Software Engineer,Java
+Software & IT,Software Engineer,Data Structures
+Software & IT,Software Engineer,Algorithms
+Software & IT,Software Engineer,Git
+Software & IT,Full Stack Developer,HTML
+Software & IT,Full Stack Developer,CSS
+Software & IT,Full Stack Developer,JavaScript
+Software & IT,Full Stack Developer,React
+Software & IT,Full Stack Developer,Node.js
+Software & IT,Frontend Developer,HTML
+Software & IT,Frontend Developer,CSS
+Software & IT,Frontend Developer,JavaScript
+Software & IT,Frontend Developer,React
+Software & IT,Frontend Developer,TypeScript
+Software & IT,Backend Developer,Python
+Software & IT,Backend Developer,Java
+Software & IT,Backend Developer,Node.js
+Software & IT,Backend Developer,REST API
+Software & IT,Backend Developer,SQL
+Software & IT,DevOps Engineer,Linux
+Software & IT,DevOps Engineer,Docker
+Software & IT,DevOps Engineer,Kubernetes
+Software & IT,DevOps Engineer,AWS
+Software & IT,DevOps Engineer,CI/CD
+Software & IT,Cloud Engineer,AWS
+Software & IT,Cloud Engineer,Azure
+Software & IT,Cloud Engineer,Linux
+Software & IT,Cloud Engineer,Networking
+Software & IT,Cloud Engineer,Docker
+Cybersecurity,Cybersecurity Analyst,Networking
+Cybersecurity,Cybersecurity Analyst,Linux
+Cybersecurity,Cybersecurity Analyst,SIEM
+Cybersecurity,Cybersecurity Analyst,Python
+Cybersecurity,Cybersecurity Analyst,Security
+Banking & Finance,Financial Analyst,Excel
+Banking & Finance,Financial Analyst,Financial Modeling
+Banking & Finance,Financial Analyst,Accounting
+Banking & Finance,Financial Analyst,SQL
+Banking & Finance,Financial Analyst,Power BI
+Banking & Finance,Risk Analyst,Risk Management
+Banking & Finance,Risk Analyst,Statistics
+Banking & Finance,Risk Analyst,SQL
+Banking & Finance,Risk Analyst,Excel
+Banking & Finance,Risk Analyst,Python
+Banking & Finance,Credit Analyst,Credit Analysis
+Banking & Finance,Credit Analyst,Financial Analysis
+Banking & Finance,Credit Analyst,Excel
+Banking & Finance,Credit Analyst,Accounting
+Banking & Finance,Investment Banker,Financial Modeling
+Banking & Finance,Investment Banker,Valuation
+Banking & Finance,Investment Banker,Excel
+Banking & Finance,Investment Banker,Accounting
+Banking & Finance,Accountant,Accounting
+Banking & Finance,Accountant,Excel
+Banking & Finance,Accountant,Taxation
+Banking & Finance,Accountant,Auditing
+Banking & Finance,Accountant,Financial Reporting
+Business,Business Analyst,SQL
+Business,Business Analyst,Excel
+Business,Business Analyst,Power BI
+Business,Business Analyst,Business Analysis
+Business,Business Analyst,Communication
+Business,Project Manager,Project Management
+Business,Project Manager,Agile
+Business,Project Manager,Scrum
+Business,Project Manager,Leadership
+Business,Product Manager,Product Strategy
+Business,Product Manager,Agile
+Business,Product Manager,Market Research
+Business,Product Manager,Communication
+Business,Operations Manager,Operations Management
+Business,Operations Manager,Excel
+Business,Operations Manager,Leadership
+Business,Operations Manager,Problem Solving
+Marketing,Digital Marketing Specialist,SEO
+Marketing,Digital Marketing Specialist,Google Analytics
+Marketing,Digital Marketing Specialist,Content Marketing
+Marketing,Digital Marketing Specialist,Social Media
+Marketing,SEO Specialist,SEO
+Marketing,SEO Specialist,Keyword Research
+Marketing,SEO Specialist,Google Analytics
+Marketing,SEO Specialist,Content Strategy
+Sales,Sales Manager,Sales
+Sales,Sales Manager,CRM
+Sales,Sales Manager,Negotiation
+Sales,Sales Manager,Leadership
+Sales,Sales Manager,Communication
+Human Resources,HR Analyst,Excel
+Human Resources,HR Analyst,HR Analytics
+Human Resources,HR Analyst,Recruitment
+Human Resources,HR Analyst,SQL
+Human Resources,HR Analyst,Communication
+Human Resources,Talent Acquisition Specialist,Recruitment
+Human Resources,Talent Acquisition Specialist,Interviewing
+Human Resources,Talent Acquisition Specialist,Communication
+Human Resources,Talent Acquisition Specialist,ATS
+Design,UI/UX Designer,Figma
+Design,UI/UX Designer,UI Design
+Design,UI/UX Designer,UX Research
+Design,UI/UX Designer,Wireframing
+Design,UI/UX Designer,Prototyping
+Design,Graphic Designer,Photoshop
+Design,Graphic Designer,Illustrator
+Design,Graphic Designer,Typography
+Design,Graphic Designer,Branding
+Creative Media,Video Editor,Premiere Pro
+Creative Media,Video Editor,After Effects
+Creative Media,Video Editor,Video Editing
+Creative Media,Video Editor,Storytelling
+Engineering,Mechanical Engineer,AutoCAD
+Engineering,Mechanical Engineer,SolidWorks
+Engineering,Mechanical Engineer,Mechanical Design
+Engineering,Mechanical Engineer,Problem Solving
+Engineering,Electrical Engineer,MATLAB
+Engineering,Electrical Engineer,Circuit Analysis
+Engineering,Electrical Engineer,Electrical Design
+Engineering,Electrical Engineer,Power Systems
+Engineering,Civil Engineer,AutoCAD
+Engineering,Civil Engineer,Structural Analysis
+Engineering,Civil Engineer,Construction
+Engineering,Civil Engineer,Project Management
+Healthcare,Healthcare Administrator,Healthcare Management
+Healthcare,Healthcare Administrator,Communication
+Healthcare,Healthcare Administrator,Administration
+Healthcare,Clinical Data Analyst,SQL
+Healthcare,Clinical Data Analyst,Statistics
+Healthcare,Clinical Data Analyst,Excel
+Healthcare,Clinical Data Analyst,Healthcare Data Analysis
+Education,Teacher,Teaching
+Education,Teacher,Communication
+Education,Teacher,Lesson Planning
+Education,Teacher,Classroom Management
+Education,Instructional Designer,Instructional Design
+Education,Instructional Designer,E-learning
+Education,Instructional Designer,Storyboarding
+Education,Instructional Designer,Communication
+Hospitality,Hotel Manager,Hospitality Management
+Hospitality,Hotel Manager,Leadership
+Hospitality,Hotel Manager,Customer Service
+Logistics,Supply Chain Analyst,Supply Chain Management
+Logistics,Supply Chain Analyst,Excel
+Logistics,Supply Chain Analyst,SQL
+Logistics,Supply Chain Analyst,Data Analysis
+Logistics,Logistics Manager,Logistics
+Logistics,Logistics Manager,Inventory Management
+Logistics,Logistics Manager,Leadership
+Logistics,Logistics Manager,Planning

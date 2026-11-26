@@ -1,0 +1,7 @@
+Metric,Value
+True Positives,2.0
+False Positives,3.0
+False Negatives,6.0
+Precision,0.4
+Recall,0.25
+F1 Score,0.3076923076923077

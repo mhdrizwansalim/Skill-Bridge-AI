@@ -1,0 +1,41 @@
+role,total_skills,mapped_skills,coverage_percentage
+Video Editor,4,0,0.0
+Logistics Manager,4,1,25.0
+SEO Specialist,4,1,25.0
+Hotel Manager,3,1,33.33
+AI Engineer,5,2,40.0
+NLP Engineer,5,2,40.0
+Cybersecurity Analyst,5,2,40.0
+Talent Acquisition Specialist,4,2,50.0
+Graphic Designer,4,2,50.0
+Electrical Engineer,4,2,50.0
+Teacher,4,2,50.0
+Instructional Designer,4,2,50.0
+Digital Marketing Specialist,4,2,50.0
+Software Engineer,5,3,60.0
+Computer Vision Engineer,5,3,60.0
+Healthcare Administrator,3,2,66.67
+Civil Engineer,4,3,75.0
+Operations Manager,4,3,75.0
+Clinical Data Analyst,4,3,75.0
+Mechanical Engineer,4,3,75.0
+Investment Banker,4,3,75.0
+Supply Chain Analyst,4,3,75.0
+Product Manager,4,3,75.0
+Data Scientist,5,4,80.0
+Accountant,5,4,80.0
+Cloud Engineer,5,4,80.0
+DevOps Engineer,5,4,80.0
+Frontend Developer,5,4,80.0
+Sales Manager,5,5,100.0
+HR Analyst,5,5,100.0
+UI/UX Designer,5,5,100.0
+Credit Analyst,4,4,100.0
+Risk Analyst,5,5,100.0
+Financial Analyst,5,5,100.0
+Backend Developer,5,5,100.0
+Full Stack Developer,5,5,100.0
+Machine Learning Engineer,5,5,100.0
+Data Analyst,5,5,100.0
+Business Analyst,5,5,100.0
+Project Manager,4,4,100.0

@@ -1,0 +1,37 @@
+
+SKILLBRIDGE BY ZEQUA
+DAY 5 - NLP DEVELOPMENT REPORT
+
+=====================================
+
+NLP DATA
+--------
+Occupation records: 4055
+Skill records: 13949
+
+SKILL EXTRACTION
+----------------
+Extracted skills: 5
+
+SEMANTIC MATCHING
+-----------------
+Semantic skill matches: 3
+
+MODEL EVALUATION
+----------------
+Precision: 0.4000
+Recall: 0.2500
+F1 Score: 0.3077
+
+JOB RECOMMENDATIONS
+-------------------
+TF-IDF roles evaluated: 4
+Semantic roles evaluated: 4
+
+MODELS
+------
+spaCy model: Saved
+Sentence Transformer: Saved
+
+=====================================
+End of Day 5 Report

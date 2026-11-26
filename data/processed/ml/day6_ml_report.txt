@@ -1,0 +1,49 @@
+
+SKILLBRIDGE BY ZEQUA
+DAY 6 - MACHINE LEARNING REPORT
+================================
+
+PROJECT: Occupation-Skill Relationship Prediction
+
+DATASET
+-------
+Total examples: 252102
+Training examples: 201738
+Testing examples: 50364
+
+CLASSIFICATION MODELS
+---------------------
+                    Model  Accuracy  Precision   Recall  F1 Score
+      Logistic Regression  0.710428   0.759181 0.620733  0.683012
+Tuned Logistic Regression  0.706080   0.782576 0.574905  0.662856
+                      KNN  0.638849   0.631727 0.674779  0.652544
+            Random Forest  0.641093   0.722591 0.464009  0.565125
+                  XGBoost  0.638611   0.750617 0.420710  0.539204
+            Decision Tree  0.598940   0.734219 0.316609  0.442432
+
+BEST BASELINE
+-------------
+Model: Logistic Regression
+F1 Score: 0.6830
+
+CLUSTERING
+----------
+Number of clusters: 5
+Silhouette Score: 0.0303
+
+FEATURE ENGINEERING
+-------------------
+TF-IDF text representation
+Occupation-skill relationship features
+Occupation skill profile clustering
+
+IMPORTANT LIMITATION
+--------------------
+Negative examples were randomly sampled from pairs not listed
+in ESCO. They are weak negatives, not verified skill exclusions.
+
+These results do not measure candidate employability or
+real-world hiring outcomes.
+
+================================
+END OF REPORT

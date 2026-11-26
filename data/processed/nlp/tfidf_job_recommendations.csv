@@ -1,0 +1,19 @@
+Job Role,Description,Similarity Score,Similarity Percentage
+Data Scientist,"
+    Python SQL machine learning deep learning statistics
+    data analysis predictive modeling pandas numpy
+    data visualization tensorflow
+    ",0.38005099259347136,38.01
+Machine Learning Engineer,"
+    Python machine learning deep learning TensorFlow
+    PyTorch model deployment neural networks NLP
+    ",0.1626451349207951,16.26
+Data Analyst,"
+    SQL Excel Python Power BI Tableau data analysis
+    reporting dashboards statistics visualization
+    ",0.10947568761325097,10.95
+Business Analyst,"
+    Business analysis requirements gathering
+    communication documentation Excel reporting
+    project management stakeholder management
+    ",0.017232027140851276,1.72

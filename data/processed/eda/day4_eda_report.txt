@@ -1,0 +1,104 @@
+
+=========================================================
+             SKILLBRIDGE AI
+       DAY 4 - EXPLORATORY DATA ANALYSIS
+=========================================================
+
+Generated: 2026-11-17 21:20:13
+
+1. DATASET OVERVIEW
+---------------------------------------------------------
+
+Unified Occupations: 4055
+Unified Skills: 13949
+
+ESCO Relationships: 126051
+O*NET Relationships: 18200
+
+O*NET Job Titles: 54269
+
+2. OCCUPATION COVERAGE
+---------------------------------------------------------
+
+ESCO Occupations: 3039
+O*NET Occupations: 1016
+
+3. SKILL COVERAGE
+---------------------------------------------------------
+
+ESCO Unique Skills: 13939
+
+O*NET Unique Skills: 10
+
+4. TOP ESCO SKILLS
+---------------------------------------------------------
+
+                          skillLabel  Occupation_Count                                                              Skill_ID
+use different communication channels               340 http://data.europa.eu/esco/skill/415abd43-e8e5-4643-b5da-5f11307af57a
+        create solutions to problems               339 http://data.europa.eu/esco/skill/03b9b491-fc9b-4868-914a-bf7cd47b5041
+                        manage staff               334 http://data.europa.eu/esco/skill/339ac029-066a-4985-9f9d-b3d7c8fea0bb
+       keep records of work progress               321 http://data.europa.eu/esco/skill/ccfbdaad-b91d-4bfe-bd0e-d30b33587f19
+                      manage budgets               319 http://data.europa.eu/esco/skill/21c5790c-0930-4d74-b3b0-84caf5af12ea
+              have computer literacy               318 http://data.europa.eu/esco/skill/d15ce60f-ddab-41ce-ba56-398451b77b60
+                   quality standards               313 http://data.europa.eu/esco/skill/8d4271ca-c9fd-40b3-875f-15f78332a49e
+                        troubleshoot               300 http://data.europa.eu/esco/skill/334e3e49-fb02-4051-809a-f06adfdc1c40
+           speak different languages               278 http://data.europa.eu/esco/skill/2de4572a-4724-4f76-afc2-72a568a264ac
+           identify customer's needs               261 http://data.europa.eu/esco/skill/68698869-c13c-4563-adc7-118b7644f45d
+
+5. TOP O*NET SKILLS
+---------------------------------------------------------
+
+           Skill Name  Occupation_Count Skill_ID
+      Active Learning               910  2.A.2.b
+     Active Listening               910  2.A.1.b
+    Critical Thinking               910  2.A.2.a
+  Learning Strategies               910  2.A.2.c
+          Mathematics               910  2.A.1.e
+           Monitoring               910  2.A.2.d
+Reading Comprehension               910  2.A.1.a
+              Science               910  2.A.1.f
+             Speaking               910  2.A.1.d
+              Writing               910  2.A.1.c
+
+6. INDUSTRY DISTRIBUTION
+---------------------------------------------------------
+
+         industry  Total_Roles  Unique_Roles
+    Software & IT            6             6
+Banking & Finance            5             5
+          AI & ML            4             4
+         Business            4             4
+      Engineering            3             3
+     Data Science            2             2
+           Design            2             2
+        Education            2             2
+       Healthcare            2             2
+  Human Resources            2             2
+        Logistics            2             2
+        Marketing            2             2
+   Creative Media            1             1
+    Cybersecurity            1             1
+      Hospitality            1             1
+            Sales            1             1
+
+7. OCCUPATION SKILL STATISTICS
+---------------------------------------------------------
+
+          ESCO  O*NET
+count  3039.00  910.0
+mean     41.48   10.0
+std      20.22    0.0
+min       7.00   10.0
+25%      28.00   10.0
+50%      37.00   10.0
+75%      49.00   10.0
+max     178.00   10.0
+
+8. OUTPUT LOCATION
+---------------------------------------------------------
+
+/Users/rizwansalim/Desktop/SkillBridgeByZequa/data/processed/eda
+
+=========================================================
+                 END OF REPORT
+=========================================================

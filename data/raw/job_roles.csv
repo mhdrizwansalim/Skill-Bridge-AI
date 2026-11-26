@@ -1,0 +1,41 @@
+role,industry,level,required_skills
+Data Scientist,Data Science,Entry,Python|SQL|Statistics|Machine Learning|Pandas
+Data Analyst,Data Science,Entry,SQL|Excel|Python|Power BI|Statistics
+Machine Learning Engineer,AI & ML,Entry,Python|Deep Learning|PyTorch|Machine Learning|SQL
+AI Engineer,AI & ML,Entry,Python|LLM|RAG|Deep Learning|NLP
+NLP Engineer,AI & ML,Entry,Python|NLP|Transformers|PyTorch|Hugging Face
+Computer Vision Engineer,AI & ML,Entry,Python|OpenCV|YOLO|PyTorch|Deep Learning
+Software Engineer,Software & IT,Entry,Python|Java|Data Structures|Algorithms|Git
+Full Stack Developer,Software & IT,Entry,HTML|CSS|JavaScript|React|Node.js
+Frontend Developer,Software & IT,Entry,HTML|CSS|JavaScript|React|TypeScript
+Backend Developer,Software & IT,Entry,Python|Java|Node.js|REST API|SQL
+DevOps Engineer,Software & IT,Entry,Linux|Docker|Kubernetes|AWS|CI/CD
+Cloud Engineer,Software & IT,Entry,AWS|Azure|Linux|Networking|Docker
+Cybersecurity Analyst,Cybersecurity,Entry,Networking|Linux|SIEM|Python|Security
+Financial Analyst,Banking & Finance,Entry,Excel|Financial Modeling|Accounting|SQL|Power BI
+Risk Analyst,Banking & Finance,Entry,Risk Management|Statistics|SQL|Excel|Python
+Credit Analyst,Banking & Finance,Entry,Credit Analysis|Financial Analysis|Excel|Accounting
+Investment Banker,Banking & Finance,Entry,Financial Modeling|Valuation|Excel|Accounting
+Accountant,Banking & Finance,Entry,Accounting|Excel|Taxation|Auditing|Financial Reporting
+Business Analyst,Business,Entry,SQL|Excel|Power BI|Business Analysis|Communication
+Project Manager,Business,Experienced,Project Management|Agile|Scrum|Leadership
+Product Manager,Business,Experienced,Product Strategy|Agile|Market Research|Communication
+Operations Manager,Business,Experienced,Operations Management|Excel|Leadership|Problem Solving
+Digital Marketing Specialist,Marketing,Entry,SEO|Google Analytics|Content Marketing|Social Media
+SEO Specialist,Marketing,Entry,SEO|Keyword Research|Google Analytics|Content Strategy
+Sales Manager,Sales,Experienced,Sales|CRM|Negotiation|Leadership|Communication
+HR Analyst,Human Resources,Entry,Excel|HR Analytics|Recruitment|SQL|Communication
+Talent Acquisition Specialist,Human Resources,Entry,Recruitment|Interviewing|Communication|ATS
+UI/UX Designer,Design,Entry,Figma|UI Design|UX Research|Wireframing|Prototyping
+Graphic Designer,Design,Entry,Photoshop|Illustrator|Typography|Branding
+Video Editor,Creative Media,Entry,Premiere Pro|After Effects|Video Editing|Storytelling
+Mechanical Engineer,Engineering,Entry,AutoCAD|SolidWorks|Mechanical Design|Problem Solving
+Electrical Engineer,Engineering,Entry,MATLAB|Circuit Analysis|Electrical Design|Power Systems
+Civil Engineer,Engineering,Entry,AutoCAD|Structural Analysis|Construction|Project Management
+Healthcare Administrator,Healthcare,Entry,Healthcare Management|Communication|Administration
+Clinical Data Analyst,Healthcare,Entry,SQL|Statistics|Excel|Healthcare Data Analysis
+Teacher,Education,Entry,Teaching|Communication|Lesson Planning|Classroom Management
+Instructional Designer,Education,Entry,Instructional Design|E-learning|Storyboarding|Communication
+Hotel Manager,Hospitality,Experienced,Hospitality Management|Leadership|Customer Service
+Supply Chain Analyst,Logistics,Entry,Supply Chain Management|Excel|SQL|Data Analysis
+Logistics Manager,Logistics,Experienced,Logistics|Inventory Management|Leadership|Planning

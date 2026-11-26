@@ -1,0 +1,78 @@
+skill,category
+Python,Programming
+Java,Programming
+JavaScript,Programming
+C++,Programming
+C#,Programming
+R,Programming
+SQL,Database
+Machine Learning,AI & ML
+Deep Learning,AI & ML
+Natural Language Processing,AI & ML
+Computer Vision,AI & ML
+Generative AI,AI & ML
+Large Language Models,AI & ML
+PyTorch,AI & ML
+TensorFlow,AI & ML
+Excel,Analytics
+Power BI,Analytics
+Tableau,Analytics
+Statistics,Analytics
+Data Visualization,Analytics
+Financial Modeling,Finance
+Accounting,Finance
+Financial Analysis,Finance
+Risk Management,Finance
+Credit Analysis,Finance
+Auditing,Finance
+Taxation,Finance
+HTML,Web Development
+CSS,Web Development
+React,Web Development
+Node.js,Web Development
+REST API,Web Development
+Docker,Cloud & DevOps
+Kubernetes,Cloud & DevOps
+AWS,Cloud & DevOps
+Azure,Cloud & DevOps
+Linux,Cloud & DevOps
+Git,Development Tools
+Business Analysis,Business
+Project Management,Business
+Agile,Business
+Scrum,Business
+Market Research,Business
+Supply Chain Management,Business
+SEO,Marketing
+Digital Marketing,Marketing
+Content Marketing,Marketing
+Social Media Marketing,Marketing
+Sales,Sales
+CRM,Sales
+Negotiation,Sales
+Recruitment,Human Resources
+HR Analytics,Human Resources
+Talent Acquisition,Human Resources
+Figma,Design
+UI Design,Design
+UX Research,Design
+Wireframing,Design
+Prototyping,Design
+Photoshop,Design
+Illustrator,Design
+AutoCAD,Engineering
+SolidWorks,Engineering
+MATLAB,Engineering
+Circuit Analysis,Engineering
+Structural Analysis,Engineering
+Healthcare Management,Healthcare
+Clinical Data Analysis,Healthcare
+Teaching,Education
+Instructional Design,Education
+Communication,Soft Skills
+Leadership,Soft Skills
+Problem Solving,Soft Skills
+Critical Thinking,Soft Skills
+Teamwork,Soft Skills
+Time Management,Soft Skills
+Adaptability,Soft Skills

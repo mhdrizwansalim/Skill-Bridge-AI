@@ -1,0 +1,8 @@
+Dataset,Rows,Columns,Duplicate Rows,Missing Cells,Memory Usage (MB)
+ESCO Occupations,3043,15,0,8803,4.74
+ESCO Skills,13960,13,0,41517,16.47
+ESCO Relationships,126051,6,0,59,61.19
+O*NET Occupations,1016,3,0,0,0.39
+O*NET Skills,18200,15,0,9100,10.59
+O*NET Job Titles,54269,5,0,49814,15.76
+ESCO Skill Groups,640,11,0,1901,0.61

@@ -1,0 +1,179 @@
+role,industry,level,skill,category
+Data Scientist,Data Science,Entry,Python,Programming
+Data Scientist,Data Science,Entry,SQL,Database
+Data Scientist,Data Science,Entry,Statistics,Analytics
+Data Scientist,Data Science,Entry,Machine Learning,AI & ML
+Data Scientist,Data Science,Entry,Pandas,
+Data Analyst,Data Science,Entry,SQL,Database
+Data Analyst,Data Science,Entry,Excel,Analytics
+Data Analyst,Data Science,Entry,Python,Programming
+Data Analyst,Data Science,Entry,Power BI,Analytics
+Data Analyst,Data Science,Entry,Statistics,Analytics
+Machine Learning Engineer,AI & ML,Entry,Python,Programming
+Machine Learning Engineer,AI & ML,Entry,Deep Learning,AI & ML
+Machine Learning Engineer,AI & ML,Entry,PyTorch,AI & ML
+Machine Learning Engineer,AI & ML,Entry,Machine Learning,AI & ML
+Machine Learning Engineer,AI & ML,Entry,SQL,Database
+AI Engineer,AI & ML,Entry,Python,Programming
+AI Engineer,AI & ML,Entry,LLM,
+AI Engineer,AI & ML,Entry,RAG,
+AI Engineer,AI & ML,Entry,Deep Learning,AI & ML
+AI Engineer,AI & ML,Entry,NLP,
+NLP Engineer,AI & ML,Entry,Python,Programming
+NLP Engineer,AI & ML,Entry,NLP,
+NLP Engineer,AI & ML,Entry,Transformers,
+NLP Engineer,AI & ML,Entry,PyTorch,AI & ML
+NLP Engineer,AI & ML,Entry,Hugging Face,
+Computer Vision Engineer,AI & ML,Entry,Python,Programming
+Computer Vision Engineer,AI & ML,Entry,OpenCV,
+Computer Vision Engineer,AI & ML,Entry,YOLO,
+Computer Vision Engineer,AI & ML,Entry,PyTorch,AI & ML
+Computer Vision Engineer,AI & ML,Entry,Deep Learning,AI & ML
+Software Engineer,Software & IT,Entry,Python,Programming
+Software Engineer,Software & IT,Entry,Java,Programming
+Software Engineer,Software & IT,Entry,Data Structures,
+Software Engineer,Software & IT,Entry,Algorithms,
+Software Engineer,Software & IT,Entry,Git,Development Tools
+Full Stack Developer,Software & IT,Entry,HTML,Web Development
+Full Stack Developer,Software & IT,Entry,CSS,Web Development
+Full Stack Developer,Software & IT,Entry,JavaScript,Programming
+Full Stack Developer,Software & IT,Entry,React,Web Development
+Full Stack Developer,Software & IT,Entry,Node.js,Web Development
+Frontend Developer,Software & IT,Entry,HTML,Web Development
+Frontend Developer,Software & IT,Entry,CSS,Web Development
+Frontend Developer,Software & IT,Entry,JavaScript,Programming
+Frontend Developer,Software & IT,Entry,React,Web Development
+Frontend Developer,Software & IT,Entry,TypeScript,
+Backend Developer,Software & IT,Entry,Python,Programming
+Backend Developer,Software & IT,Entry,Java,Programming
+Backend Developer,Software & IT,Entry,Node.js,Web Development
+Backend Developer,Software & IT,Entry,REST API,Web Development
+Backend Developer,Software & IT,Entry,SQL,Database
+DevOps Engineer,Software & IT,Entry,Linux,Cloud & DevOps
+DevOps Engineer,Software & IT,Entry,Docker,Cloud & DevOps
+DevOps Engineer,Software & IT,Entry,Kubernetes,Cloud & DevOps
+DevOps Engineer,Software & IT,Entry,AWS,Cloud & DevOps
+DevOps Engineer,Software & IT,Entry,CI/CD,
+Cloud Engineer,Software & IT,Entry,AWS,Cloud & DevOps
+Cloud Engineer,Software & IT,Entry,Azure,Cloud & DevOps
+Cloud Engineer,Software & IT,Entry,Linux,Cloud & DevOps
+Cloud Engineer,Software & IT,Entry,Networking,
+Cloud Engineer,Software & IT,Entry,Docker,Cloud & DevOps
+Cybersecurity Analyst,Cybersecurity,Entry,Networking,
+Cybersecurity Analyst,Cybersecurity,Entry,Linux,Cloud & DevOps
+Cybersecurity Analyst,Cybersecurity,Entry,SIEM,
+Cybersecurity Analyst,Cybersecurity,Entry,Python,Programming
+Cybersecurity Analyst,Cybersecurity,Entry,Security,
+Financial Analyst,Banking & Finance,Entry,Excel,Analytics
+Financial Analyst,Banking & Finance,Entry,Financial Modeling,Finance
+Financial Analyst,Banking & Finance,Entry,Accounting,Finance
+Financial Analyst,Banking & Finance,Entry,SQL,Database
+Financial Analyst,Banking & Finance,Entry,Power BI,Analytics
+Risk Analyst,Banking & Finance,Entry,Risk Management,Finance
+Risk Analyst,Banking & Finance,Entry,Statistics,Analytics
+Risk Analyst,Banking & Finance,Entry,SQL,Database
+Risk Analyst,Banking & Finance,Entry,Excel,Analytics
+Risk Analyst,Banking & Finance,Entry,Python,Programming
+Credit Analyst,Banking & Finance,Entry,Credit Analysis,Finance
+Credit Analyst,Banking & Finance,Entry,Financial Analysis,Finance
+Credit Analyst,Banking & Finance,Entry,Excel,Analytics
+Credit Analyst,Banking & Finance,Entry,Accounting,Finance
+Investment Banker,Banking & Finance,Entry,Financial Modeling,Finance
+Investment Banker,Banking & Finance,Entry,Valuation,
+Investment Banker,Banking & Finance,Entry,Excel,Analytics
+Investment Banker,Banking & Finance,Entry,Accounting,Finance
+Accountant,Banking & Finance,Entry,Accounting,Finance
+Accountant,Banking & Finance,Entry,Excel,Analytics
+Accountant,Banking & Finance,Entry,Taxation,Finance
+Accountant,Banking & Finance,Entry,Auditing,Finance
+Accountant,Banking & Finance,Entry,Financial Reporting,
+Business Analyst,Business,Entry,SQL,Database
+Business Analyst,Business,Entry,Excel,Analytics
+Business Analyst,Business,Entry,Power BI,Analytics
+Business Analyst,Business,Entry,Business Analysis,Business
+Business Analyst,Business,Entry,Communication,Soft Skills
+Project Manager,Business,Experienced,Project Management,Business
+Project Manager,Business,Experienced,Agile,Business
+Project Manager,Business,Experienced,Scrum,Business
+Project Manager,Business,Experienced,Leadership,Soft Skills
+Product Manager,Business,Experienced,Product Strategy,
+Product Manager,Business,Experienced,Agile,Business
+Product Manager,Business,Experienced,Market Research,Business
+Product Manager,Business,Experienced,Communication,Soft Skills
+Operations Manager,Business,Experienced,Operations Management,
+Operations Manager,Business,Experienced,Excel,Analytics
+Operations Manager,Business,Experienced,Leadership,Soft Skills
+Operations Manager,Business,Experienced,Problem Solving,Soft Skills
+Digital Marketing Specialist,Marketing,Entry,SEO,Marketing
+Digital Marketing Specialist,Marketing,Entry,Google Analytics,
+Digital Marketing Specialist,Marketing,Entry,Content Marketing,Marketing
+Digital Marketing Specialist,Marketing,Entry,Social Media,
+SEO Specialist,Marketing,Entry,SEO,Marketing
+SEO Specialist,Marketing,Entry,Keyword Research,
+SEO Specialist,Marketing,Entry,Google Analytics,
+SEO Specialist,Marketing,Entry,Content Strategy,
+Sales Manager,Sales,Experienced,Sales,Sales
+Sales Manager,Sales,Experienced,CRM,Sales
+Sales Manager,Sales,Experienced,Negotiation,Sales
+Sales Manager,Sales,Experienced,Leadership,Soft Skills
+Sales Manager,Sales,Experienced,Communication,Soft Skills
+HR Analyst,Human Resources,Entry,Excel,Analytics
+HR Analyst,Human Resources,Entry,HR Analytics,Human Resources
+HR Analyst,Human Resources,Entry,Recruitment,Human Resources
+HR Analyst,Human Resources,Entry,SQL,Database
+HR Analyst,Human Resources,Entry,Communication,Soft Skills
+Talent Acquisition Specialist,Human Resources,Entry,Recruitment,Human Resources
+Talent Acquisition Specialist,Human Resources,Entry,Interviewing,
+Talent Acquisition Specialist,Human Resources,Entry,Communication,Soft Skills
+Talent Acquisition Specialist,Human Resources,Entry,ATS,
+UI/UX Designer,Design,Entry,Figma,Design
+UI/UX Designer,Design,Entry,UI Design,Design
+UI/UX Designer,Design,Entry,UX Research,Design
+UI/UX Designer,Design,Entry,Wireframing,Design
+UI/UX Designer,Design,Entry,Prototyping,Design
+Graphic Designer,Design,Entry,Photoshop,Design
+Graphic Designer,Design,Entry,Illustrator,Design
+Graphic Designer,Design,Entry,Typography,
+Graphic Designer,Design,Entry,Branding,
+Video Editor,Creative Media,Entry,Premiere Pro,
+Video Editor,Creative Media,Entry,After Effects,
+Video Editor,Creative Media,Entry,Video Editing,
+Video Editor,Creative Media,Entry,Storytelling,
+Mechanical Engineer,Engineering,Entry,AutoCAD,Engineering
+Mechanical Engineer,Engineering,Entry,SolidWorks,Engineering
+Mechanical Engineer,Engineering,Entry,Mechanical Design,
+Mechanical Engineer,Engineering,Entry,Problem Solving,Soft Skills
+Electrical Engineer,Engineering,Entry,MATLAB,Engineering
+Electrical Engineer,Engineering,Entry,Circuit Analysis,Engineering
+Electrical Engineer,Engineering,Entry,Electrical Design,
+Electrical Engineer,Engineering,Entry,Power Systems,
+Civil Engineer,Engineering,Entry,AutoCAD,Engineering
+Civil Engineer,Engineering,Entry,Structural Analysis,Engineering
+Civil Engineer,Engineering,Entry,Construction,
+Civil Engineer,Engineering,Entry,Project Management,Business
+Healthcare Administrator,Healthcare,Entry,Healthcare Management,Healthcare
+Healthcare Administrator,Healthcare,Entry,Communication,Soft Skills
+Healthcare Administrator,Healthcare,Entry,Administration,
+Clinical Data Analyst,Healthcare,Entry,SQL,Database
+Clinical Data Analyst,Healthcare,Entry,Statistics,Analytics
+Clinical Data Analyst,Healthcare,Entry,Excel,Analytics
+Clinical Data Analyst,Healthcare,Entry,Healthcare Data Analysis,
+Teacher,Education,Entry,Teaching,Education
+Teacher,Education,Entry,Communication,Soft Skills
+Teacher,Education,Entry,Lesson Planning,
+Teacher,Education,Entry,Classroom Management,
+Instructional Designer,Education,Entry,Instructional Design,Education
+Instructional Designer,Education,Entry,E-learning,
+Instructional Designer,Education,Entry,Storyboarding,
+Instructional Designer,Education,Entry,Communication,Soft Skills
+Hotel Manager,Hospitality,Experienced,Hospitality Management,
+Hotel Manager,Hospitality,Experienced,Leadership,Soft Skills
+Hotel Manager,Hospitality,Experienced,Customer Service,
+Supply Chain Analyst,Logistics,Entry,Supply Chain Management,Business
+Supply Chain Analyst,Logistics,Entry,Excel,Analytics
+Supply Chain Analyst,Logistics,Entry,SQL,Database
+Supply Chain Analyst,Logistics,Entry,Data Analysis,
+Logistics Manager,Logistics,Experienced,Logistics,
+Logistics Manager,Logistics,Experienced,Inventory Management,
+Logistics Manager,Logistics,Experienced,Leadership,Soft Skills
+Logistics Manager,Logistics,Experienced,Planning,

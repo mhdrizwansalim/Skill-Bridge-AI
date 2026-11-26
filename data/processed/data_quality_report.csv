@@ -1,0 +1,13 @@
+dataset,column,data_type,missing_values,missing_percentage,unique_values
+Job Roles,role,object,0,0.0,40
+Job Roles,industry,object,0,0.0,16
+Job Roles,level,object,0,0.0,2
+Job Roles,required_skills,object,0,0.0,40
+Skills Taxonomy,skill,object,0,0.0,77
+Skills Taxonomy,category,object,0,0.0,17
+Skills Taxonomy,skill_key,object,0,0.0,77
+Job Skill Mapping,role,object,0,0.0,40
+Job Skill Mapping,industry,object,0,0.0,16
+Job Skill Mapping,level,object,0,0.0,2
+Job Skill Mapping,skill,object,0,0.0,106
+Job Skill Mapping,category,object,50,28.09,17
